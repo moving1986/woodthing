@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "fnr\\": "vendor/fnr",
+      "app\\": "app"
+    }
+  },
+  "require": {
+  }
+}
