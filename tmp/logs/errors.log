@@ -20,3 +20,53 @@
 =================
 [2023-01-09 12:07:39] Текст ошибки: Errorr | Файл: C:\OpenServer\domains\wood-thing.loc\public\index.php | Строка: 11
 =================
+[2023-01-10 09:31:07] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 61
+=================
+[2023-01-10 09:31:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 65
+=================
+[2023-01-10 09:31:13] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 61
+=================
+[2023-01-10 12:18:34] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 61
+=================
+[2023-01-10 12:18:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 65
+=================
+[2023-01-10 12:20:03] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 61
+=================
+[2023-01-10 12:20:04] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 61
+=================
+[2023-01-10 12:20:05] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 61
+=================
+[2023-01-10 12:25:12] Текст ошибки: Call to undefined method app\controllers\MainController::getModel() | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 51
+=================
+[2023-01-13 04:26:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 65
+=================
+[2023-01-13 04:50:26] Текст ошибки: Метод app\controllers\admin\MainController::indexAction не найден | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 58
+=================
+[2023-01-13 06:33:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\Router.php | Строка: 65
+=================
+[2023-01-13 06:39:54] Текст ошибки: Не найден вид C:\OpenServer\domains\wood-thing.loc/app/views/Main/index.php | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\View.php | Строка: 36
+=================
+[2023-01-13 06:49:53] Текст ошибки: Не найден шаблон C:\OpenServer\domains\wood-thing.loc/app/views/layouts/test.php | Файл: C:\OpenServer\domains\wood-thing.loc\vendor\fnr\View.php | Строка: 44
+=================
+[2023-01-13 06:50:57] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:50:57] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:50:58] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:50:58] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:50:58] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:50:59] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:51:00] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:51:15] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:51:15] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:51:16] Текст ошибки: Type of app\controllers\MainController::$layout must be fnr\flase|string (as in class fnr\Controller) | Файл: C:\OpenServer\domains\wood-thing.loc\app\controllers\MainController.php | Строка: 7
+=================
+[2023-01-13 06:53:58] Текст ошибки: Undefined variable $content | Файл: C:\OpenServer\domains\wood-thing.loc\app\views\layouts\wood.php | Строка: 17
+=================
